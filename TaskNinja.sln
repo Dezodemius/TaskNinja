@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNinja.Web", "TaskNinja.Web\TaskNinja.Web.csproj", "{6089585C-CEC5-4278-AF62-B271EAEB2EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNinja.Core", "TaskNinja.Core\TaskNinja.Core.csproj", "{71EB447C-7311-4744-BF67-23E584405847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNinja.TelegramBot", "TaskNinja.TelegramBot\TaskNinja.TelegramBot.csproj", "{99065305-4AB7-4B84-9B31-71FDAC424353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6089585C-CEC5-4278-AF62-B271EAEB2EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6089585C-CEC5-4278-AF62-B271EAEB2EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6089585C-CEC5-4278-AF62-B271EAEB2EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6089585C-CEC5-4278-AF62-B271EAEB2EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EB447C-7311-4744-BF67-23E584405847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EB447C-7311-4744-BF67-23E584405847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EB447C-7311-4744-BF67-23E584405847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EB447C-7311-4744-BF67-23E584405847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99065305-4AB7-4B84-9B31-71FDAC424353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99065305-4AB7-4B84-9B31-71FDAC424353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99065305-4AB7-4B84-9B31-71FDAC424353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99065305-4AB7-4B84-9B31-71FDAC424353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
